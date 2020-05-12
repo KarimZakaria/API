@@ -1,2 +1,2 @@
-# API
-Simple Api By Laravel 
+# RestFul Api
+## Simple Api By Laravel 
